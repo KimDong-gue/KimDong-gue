@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 ---------  | ----|-----
 영화 추천 시스템 | 8월 | [네이버](http://www.naver.com)
 비대면 진료 | 9월 | [구글](http://www.google.com)
-얼굴형 헤어스타일 추천 | 10월 | [구글](http://www.google.com)
+얼굴형 헤어스타일 추천 | 10월 | [링크][(https://github.com/KimDong-gue/Shape_Of_U/edit/main/README.md)https://github.com/KimDong-gue/Shape_Of_U/edit/main/README.md)]
 산삼인식 드론 | 11월 | 
 AI 멘토와 운동,식단 추천 | 12월 |  
