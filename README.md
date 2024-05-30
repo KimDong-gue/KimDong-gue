@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 프로젝트  | 일자 | 링크
 ---------  | ----|-----
-영화 추천 시스템 | 8월 | [링크](https://github.com/KimDong-gue/Command_Movie)
-비대면 진료 | 9월 | [링크](https://github.com/KimDong-gue/Healthy_Care)
-얼굴형 헤어스타일 추천 | 10월 | [링크](https://github.com/KimDong-gue/Shape_Of_U)
-산삼인식 드론 | 11월 | [링크](https://github.com/KimDong-gue/Ginseng_dectection)
+환자 맞춤형 식단 추천 플랫폼 | 5월 |  
 AI 멘토와 운동,식단 추천 | 12월 | [링크](https://github.com/KimDong-gue/Healthy-Mento)
+산삼인식 드론 | 11월 | [링크](https://github.com/KimDong-gue/Ginseng_dectection)
+얼굴형 헤어스타일 추천 | 10월 | [링크](https://github.com/KimDong-gue/Shape_Of_U)
+비대면 진료 | 9월 | [링크](https://github.com/KimDong-gue/Healthy_Care)
+영화 추천 시스템 | 8월 | [링크](https://github.com/KimDong-gue/Command_Movie)
